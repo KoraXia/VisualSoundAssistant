@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/a751f144e71646b35804e55b9d8c9b6816d5f091/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be03dda342f095a23a2e351c4ef231159085c792/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/93dbee2c4cfbe94820d57861c9fd5c12719fe159/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_9eff43c632126f08937217914b6225a82a920024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/a751f144e71646b35804e55b9d8c9b6816d5f091/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_be03dda342f095a23a2e351c4ef231159085c792.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/57ea498176965819b8274863f0330e3c8be29988/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45d4ad65effd01f22623b37b55ecd1c4d7915fdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/dd7109da8a1509ba70fecdcddf82df8a40f492cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_58c49845b2a0742a14be87b6b3d054e81c9f7ed0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/93dbee2c4cfbe94820d57861c9fd5c12719fe159/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9eff43c632126f08937217914b6225a82a920024/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd579b7719392538c05eebd0a040665ec031c95c">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_95621f492fe2ca0c2e164256c7c282673aa35424/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/dd7109da8a1509ba70fecdcddf82df8a40f492cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58c49845b2a0742a14be87b6b3d054e81c9f7ed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2966ad58053c8b47f52764b6f318f77296c77ee">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_95621f492fe2ca0c2e164256c7c282673aa35424/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/57ea498176965819b8274863f0330e3c8be29988/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_45d4ad65effd01f22623b37b55ecd1c4d7915fdc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/20f5b3ffb1238f83fa5e7be6dd1dd460aa81badc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afcd30e678d5d85a20d9e1b3fb4b19b8a1a34d00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_94635b6a02f3c4aeb27b02464601ec138c3b7e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/48c0a24436757010f43ccd41f22ba7cdc382aded/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_c3c15d00153a0f6ca02c5d1ffb121c57596e040d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/20f5b3ffb1238f83fa5e7be6dd1dd460aa81badc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_afcd30e678d5d85a20d9e1b3fb4b19b8a1a34d00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_94635b6a02f3c4aeb27b02464601ec138c3b7e6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/bb164cf2d7fee170038d26300d06094342321c71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fd242e0934aa0ddefcbe9014d0235cd34858e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/bb164cf2d7fee170038d26300d06094342321c71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_9fd242e0934aa0ddefcbe9014d0235cd34858e5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/48c0a24436757010f43ccd41f22ba7cdc382aded/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3c15d00153a0f6ca02c5d1ffb121c57596e040d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d18f38728ef5395e86308bbe86c614b1b51e490f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/14e321bba38e99bf5506fd8dbc3985c7e0dc7bd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_7d9f94653ed4abaa409fac1d664b2f198ccf4c29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/14e321bba38e99bf5506fd8dbc3985c7e0dc7bd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d9f94653ed4abaa409fac1d664b2f198ccf4c29/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koraxia/.android/build-cache/c17235085e146f97762e0485d44f8c8057b47f70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/pre-dexed/debug/classes_00afd4de2a497865c8ac6f89e1402a9ab591d2b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/.android/build-cache/c17235085e146f97762e0485d44f8c8057b47f70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00afd4de2a497865c8ac6f89e1402a9ab591d2b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/koraxia/Downloads/AudioDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d18f38728ef5395e86308bbe86c614b1b51e490f/classes.dex" />
+    </item>
+
+</items>
